@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on few projects
 - 📫 How to reach me via email, which is anovikov4492@gmail.com
-- 😄 Pronouns: whatever you say Jay
 - ⚡ Fun fact: played ice hockey for 21 years
 
 <!---
